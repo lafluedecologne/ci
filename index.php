@@ -14,7 +14,7 @@ date_default_timezone_set('Europe/Berlin');
  *     development
  *     testing
  *     production
- *asdfasdf
+ *aTest
  * NOTE: If you change these, also change the error_reporting() code below
  *s
  */
